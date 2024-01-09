@@ -1,0 +1,1 @@
+document.getElementById("test").innerHTML = "Dette er en test"
